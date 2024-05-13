@@ -1,0 +1,99 @@
+.y {
+  color: yellow;
+}
+h1 {
+  color: white;
+  font-size: 48px;
+  text-align: center;
+}
+body {
+  background-color: #cd5d5d;
+  max-width: 1440px;
+  max-height: 1024;
+  margin: 0 auto;
+}
+.doda {
+  margin: 0 auto;
+  background-color: #f8fd0d;
+  width: 1200px;
+  height: 894px;
+  text-align: center;
+  max-height: 894px;
+}
+.ota {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding: 20px;
+  text-align: center;
+}
+.lin1 {
+  font-size: 40px;
+}
+.lin2,
+3,
+4 {
+  font-size: 15px;
+}
+.can1 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  color: white;
+  max-width: 300px;
+  text-align: center;
+}
+.can2 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  color: white;
+  max-width: 300px;
+}
+p {
+  font-size: 13px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.can3 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  color: white;
+  max-width: 300px;
+}
+.ona {
+  display: flex;
+  justify-content: space-around;
+}
+.can4 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  color: white;
+  max-width: 300px;
+  text-align: center;
+}
+.can5 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  color: white;
+  max-width: 300px;
+  text-align: center;
+}
+.can6 {
+  background-color: black;
+  width: 300px;
+  height: 300px;
+  color: white;
+  max-width: 300px;
+  text-align: center;
+}
+.aka {
+  display: flex;
+  justify-content: space-around;
+  align-items: end;
+  padding: 100px 0px;
+}
